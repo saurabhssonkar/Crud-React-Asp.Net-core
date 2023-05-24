@@ -1,0 +1,73 @@
+.design{
+    margin-top: 50px;
+    align-items: center;
+}
+.design1{
+    margin-top: 50px;
+    margin-left: 40px;
+    margin-right: 80px;
+    
+  
+}
+
+/* Input styles */
+
+
+  
+ 
+  
+  .btn-primary {
+    margin-right: 5px;
+  }
+  
+  .btn-danger {
+    margin-left: 5px;
+  }
+  
+.form-control {
+    width: 100%;
+    padding: 8px;
+    font-size: 14px;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+}
+
+/* Table styles */
+.design1 {
+    margin-top: 20px;
+}
+
+.design1 thead th {
+    background-color: #f8f9fa;
+    border-bottom: 1px solid #dee2e6;
+    font-weight: 600;
+}
+
+.design1 tbody td {
+    border-bottom: 1px solid #dee2e6;
+    vertical-align: middle;
+}
+
+/* Button styles */
+.btn-primary {
+    margin-right: 5px;
+}
+
+.btn-danger {
+    margin-left: 5px;
+}
+
+/* Modal styles */
+.modal-title {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.modal-body .form-control {
+    margin-bottom: 10px;
+}
+
+.modal-footer {
+    justify-content: flex-start;
+}
+
